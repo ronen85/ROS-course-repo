@@ -1,0 +1,4 @@
+3 people had carpool: a mechanical engineer, an electrical engineer, and a Microsoft programmer. But the car suddenly broke down. 
+Mechanical engineer said: "Hey! It has to be the fuel injection. Lemme fix it." 
+The electrical engineer didn't agree: "It's magneto probably. I'll fix it." 
+Microsoft programmer shook his head and said: "Hey guys, I have a simpler idea: Let's just close all the windows, get out of the car, then get back into it, and it should run!"
